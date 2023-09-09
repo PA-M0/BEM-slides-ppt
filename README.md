@@ -1,4 +1,6 @@
 # BEM-slides-pptx
+#Everything about BEM methodology in link below :
+https://getbem.com/
 ## introduction 
 * What is the BEM? 
 * Why we need it?
